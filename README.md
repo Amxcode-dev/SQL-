@@ -20,6 +20,8 @@ Welcome to my SQL Repository! This repository contains a collection of SQL scrip
 
 # 7.Contact
 
+
+
 # Introduction
 
 This repository includes a variety of SQL scripts for different use cases such as data retrieval, database management, and performance tuning. Whether you're a beginner or a seasoned developer, you'll find helpful resources here to enhance your SQL skills.
